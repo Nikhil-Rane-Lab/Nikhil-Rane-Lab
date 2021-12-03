@@ -18,6 +18,18 @@
 
 
 
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/java.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/spring.svg" />
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/html-5.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/css-3.svg" />
+
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/javascript.svg" />
+
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/postman.svg" />
+
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mysql.svg.svg" />
+
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/git-icon.svg" />
 
 
 
