@@ -27,7 +27,7 @@
 
 <img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/postman.svg" />
 
-<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mysql.svg.svg" />
+<img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/mysql.svg" />
 
 <img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/git-icon.svg" />
 
