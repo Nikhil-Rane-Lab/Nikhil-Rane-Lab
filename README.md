@@ -16,7 +16,7 @@
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : https://github.com/Nikhil-Rane-Lab
 
-
+# Tools and Languages:
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/java.svg" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/spring.svg" />
