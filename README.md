@@ -31,6 +31,7 @@
 
 <img align="left" alt="Java" width="30px" src="https://github.com/patil-prajwal/Tech-Stack-Icons/blob/main/Icons/git-icon.svg" />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Rane-Lab)
 
 
 
